@@ -1,98 +1,110 @@
-# SQL Practice Repository 🚀
+# 🚀 SQL Practice Repository
 
-Welcome to my SQL Practice Repository! This repository contains my SQL learning journey, where I solve real-world database problems and strengthen my SQL skills through hands-on practice.
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql">
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
+</p>
 
-## 📌 About
+## 📖 About This Repository
 
-This repository includes SQL scripts covering everything from beginner to advanced concepts. Each script is written to improve my understanding of database design, querying, and data analysis.
+Welcome to my **SQL Practice Repository**!
 
-## 📚 Topics Covered
+This repository contains my SQL learning journey through hands-on practice, real-world datasets, and problem-solving exercises. The goal of this repository is to strengthen my SQL fundamentals while preparing for Data Analyst and Data Science roles.
 
-- Database Creation
-- Table Creation
-- Data Insertion
-- SELECT Statements
-- WHERE Clause
-- ORDER BY
-- GROUP BY
-- HAVING Clause
-- Aggregate Functions
-- String Functions
-- Date Functions
-- CASE Statements
-- Joins
-  - INNER JOIN
-  - LEFT JOIN
-  - RIGHT JOIN
-  - FULL JOIN
-- Subqueries
-- Common Table Expressions (CTE)
-- Views
-- Constraints
-  - PRIMARY KEY
-  - FOREIGN KEY
-  - UNIQUE
-  - CHECK
-  - DEFAULT
-- Practice Questions
-- Real-world SQL Scenarios
+The repository includes SQL scripts covering database creation, data manipulation, querying, joins, subqueries, views, Common Table Expressions (CTEs), aggregate functions, and many interview-oriented practice questions.
 
 ---
 
-## 🗂 Repository Structure
+## 📂 Repository Contents
 
 ```
 SQL-Practice/
 │
-├── SQL-Practice.sql
+├── SQL-Practice 1.sql
+├── SQL-Practice 2.sql
+├── SQL-Practice 3.sql
 └── README.md
 ```
 
 ---
 
-## 🎯 Learning Goals
+## 📚 SQL Concepts Covered
 
-- Write efficient SQL queries
-- Understand database relationships
-- Solve business-related SQL problems
-- Improve query optimization skills
-- Prepare for Data Analyst interviews
+### 🔹 Database Basics
+- Database Creation
+- Table Creation
+- Data Insertion
+- Data Modification
+- Data Deletion
+
+### 🔹 SQL Queries
+- SELECT
+- DISTINCT
+- WHERE
+- ORDER BY
+- LIMIT
+
+### 🔹 Aggregate Functions
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
+
+### 🔹 Grouping
+- GROUP BY
+- HAVING
+
+### 🔹 SQL Functions
+- String Functions
+- Date Functions
+- Numeric Functions
+
+### 🔹 Joins
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL JOIN
+- SELF JOIN
+
+### 🔹 Advanced SQL
+- Subqueries
+- Nested Queries
+- Common Table Expressions (CTE)
+- Views
+
+### 🔹 Constraints
+- PRIMARY KEY
+- FOREIGN KEY
+- UNIQUE
+- NOT NULL
+- CHECK
+- DEFAULT
+
+### 🔹 Practice Problems
+- Sports Database
+- Airlines Database
+- Business Scenarios
+- SQL Interview Questions
+- Data Analysis Queries
 
 ---
 
-## 💡 Sample SQL Concepts
+## 💡 Skills Demonstrated
 
-✔ Aggregate Functions
-
-```sql
-SELECT department, AVG(salary)
-FROM employees
-GROUP BY department;
-```
-
-✔ INNER JOIN
-
-```sql
-SELECT p.player_name, t.team_name
-FROM Players p
-JOIN Teams t
-ON p.team_id = t.team_id;
-```
-
-✔ Common Table Expression (CTE)
-
-```sql
-WITH HighSalary AS (
-    SELECT *
-    FROM Employees
-    WHERE salary > 50000
-)
-SELECT * FROM HighSalary;
-```
+- Writing efficient SQL queries
+- Database design
+- Data retrieval
+- Data filtering
+- Data aggregation
+- Multi-table joins
+- Query optimization
+- Business data analysis
 
 ---
 
-## 🛠 Tools Used
+## 🛠️ Technologies Used
 
 - MySQL
 - SQL
@@ -101,30 +113,50 @@ SELECT * FROM HighSalary;
 
 ---
 
-## 📈 Repository Purpose
+## 🎯 Repository Goal
 
-This repository serves as my personal SQL practice space where I regularly upload new problems, solutions, and mini projects as I continue learning Data Analytics.
+This repository documents my continuous learning in SQL by solving practical problems and implementing real-world database scenarios.
+
+I regularly update this repository with:
+
+- New SQL concepts
+- Practice questions
+- Mini database projects
+- Interview preparation queries
+- Advanced SQL techniques
 
 ---
 
-## 🚀 Future Additions
+## 📈 Future Updates
 
 - Window Functions
 - Stored Procedures
 - Triggers
 - Indexes
+- Transactions
 - Query Optimization
-- SQL Interview Questions
-- Mini Database Projects
+- Advanced SQL Projects
 
 ---
 
 ## 🤝 Connect With Me
 
-**LinkedIn:** www.linkedin.com/in/rajangupta0099
+💼 **LinkedIn:** www.linkedin.com/in/rajangupta0099
 
-**GitHub:** https://github.com/Rajangpt0099-hub
+💻 **GitHub:** https://github.com/Rajangpt0099-hub
 
 ---
 
-⭐ If you found this repository helpful, consider giving it a **Star**!
+## ⭐ Support
+
+If you found this repository helpful, please consider giving it a ⭐.
+
+It motivates me to continue learning and sharing more SQL projects!
+
+---
+
+### 👨‍💻 Author
+
+**Rajan Kumar Gupta**
+
+*Aspiring Data Analyst | SQL | Power BI | Tableau | Excel | Generative AI*
