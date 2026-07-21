@@ -1,80 +1,112 @@
+<div align="center">
+
 # 🚀 SQL Practice Repository
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql">
-  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge">
-</p>
+### Mastering SQL Through Hands-on Practice & Real-World Database Scenarios
 
-## 📖 About This Repository
+![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
-Welcome to my **SQL Practice Repository**!
-
-This repository contains my SQL learning journey through hands-on practice, real-world datasets, and problem-solving exercises. The goal of this repository is to strengthen my SQL fundamentals while preparing for Data Analyst and Data Science roles.
-
-The repository includes SQL scripts covering database creation, data manipulation, querying, joins, subqueries, views, Common Table Expressions (CTEs), aggregate functions, and many interview-oriented practice questions.
+</div>
 
 ---
 
-## 📂 Repository Contents
+# 📖 About
+
+Welcome to my **SQL Practice Repository**!
+
+This repository documents my SQL learning journey through structured practice and real-world database scenarios. It contains multiple SQL files covering fundamental to advanced concepts, helping strengthen problem-solving skills and build a solid foundation in SQL for Data Analytics.
+
+---
+
+# 📂 Repository Structure
 
 ```
-SQL-Practice/
+📁 SQL-Practice
 │
 ├── SQL-Practice 1.sql
 ├── SQL-Practice 2.sql
 ├── SQL-Practice 3.sql
+├── SQL-Practice 4 (Joins).sql
 └── README.md
 ```
 
 ---
 
-## 📚 SQL Concepts Covered
+# 📚 Topics Covered
 
-### 🔹 Database Basics
+## 🟢 SQL Fundamentals
+
 - Database Creation
 - Table Creation
 - Data Insertion
-- Data Modification
-- Data Deletion
-
-### 🔹 SQL Queries
-- SELECT
-- DISTINCT
-- WHERE
+- SELECT Statements
+- WHERE Clause
 - ORDER BY
 - LIMIT
+- DISTINCT
 
-### 🔹 Aggregate Functions
+---
+
+## 🟡 Aggregate Functions
+
 - COUNT()
 - SUM()
 - AVG()
 - MIN()
 - MAX()
 
-### 🔹 Grouping
+---
+
+## 🟠 Grouping
+
 - GROUP BY
 - HAVING
 
-### 🔹 SQL Functions
-- String Functions
-- Date Functions
-- Numeric Functions
+---
 
-### 🔹 Joins
+## 🔵 SQL Functions
+
+### String Functions
+
+- CONCAT()
+- UPPER()
+- LOWER()
+- LENGTH()
+- TRIM()
+- REPLACE()
+
+### Date Functions
+
+- CURDATE()
+- NOW()
+- DATEDIFF()
+- DATE_FORMAT()
+
+---
+
+## 🟣 Joins
+
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
 - FULL JOIN
 - SELF JOIN
 
-### 🔹 Advanced SQL
+---
+
+## 🔴 Advanced SQL
+
 - Subqueries
 - Nested Queries
 - Common Table Expressions (CTE)
 - Views
 
-### 🔹 Constraints
+---
+
+## ⚫ Constraints
+
 - PRIMARY KEY
 - FOREIGN KEY
 - UNIQUE
@@ -82,52 +114,57 @@ SQL-Practice/
 - CHECK
 - DEFAULT
 
-### 🔹 Practice Problems
-- Sports Database
-- Airlines Database
-- Business Scenarios
-- SQL Interview Questions
-- Data Analysis Queries
+---
+
+## 📊 Practice Databases
+
+This repository includes SQL practice using different datasets such as:
+
+- ⚽ Sports Database
+- ✈️ Airlines Database
+- 👥 Employee Database
+- 📦 Business Scenarios
+- 🛒 Sales & Analytics
+- Interview-Based SQL Questions
 
 ---
 
-## 💡 Skills Demonstrated
+# 💡 Skills Demonstrated
 
-- Writing efficient SQL queries
-- Database design
-- Data retrieval
-- Data filtering
-- Data aggregation
-- Multi-table joins
-- Query optimization
-- Business data analysis
+- Writing SQL Queries
+- Database Design
+- Data Filtering
+- Data Aggregation
+- Multi-table Joins
+- Query Optimization
+- Business Data Analysis
+- Problem Solving
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠 Tools Used
 
 - MySQL
 - SQL
 - Git
 - GitHub
+- VS Code
 
 ---
 
-## 🎯 Repository Goal
+# 🎯 Repository Goal
 
-This repository documents my continuous learning in SQL by solving practical problems and implementing real-world database scenarios.
+The purpose of this repository is to:
 
-I regularly update this repository with:
-
-- New SQL concepts
-- Practice questions
-- Mini database projects
-- Interview preparation queries
-- Advanced SQL techniques
+- Practice SQL consistently
+- Build strong SQL fundamentals
+- Solve real-world business problems
+- Prepare for Data Analyst interviews
+- Track my learning journey
 
 ---
 
-## 📈 Future Updates
+# 🚀 Future Updates
 
 - Window Functions
 - Stored Procedures
@@ -136,27 +173,49 @@ I regularly update this repository with:
 - Transactions
 - Query Optimization
 - Advanced SQL Projects
+- SQL Interview Questions
 
 ---
 
-## 🤝 Connect With Me
+# 📈 Learning Progress
 
-💼 **LinkedIn:** www.linkedin.com/in/rajangupta0099
-
-💻 **GitHub:** https://github.com/Rajangpt0099-hub
-
----
-
-## ⭐ Support
-
-If you found this repository helpful, please consider giving it a ⭐.
-
-It motivates me to continue learning and sharing more SQL projects!
+- ✅ SQL Basics
+- ✅ Aggregate Functions
+- ✅ GROUP BY & HAVING
+- ✅ Joins
+- ✅ Constraints
+- ✅ Views
+- ✅ CTE
+- 🔄 Advanced SQL (In Progress)
 
 ---
 
-### 👨‍💻 Author
+# 🤝 Connect With Me
 
-**Rajan Kumar Gupta**
+💼 **LinkedIn**  
+https://www.linkedin.com/in/rajangupta0099
 
-*Aspiring Data Analyst | SQL | Power BI | Tableau | Excel | Generative AI*
+💻 **GitHub**  
+https://github.com/Rajangpt0099-hub
+
+---
+
+# ⭐ If You Like This Repository
+
+If you found this repository useful, consider giving it a **⭐ Star**.
+
+It motivates me to continue learning, building projects, and sharing my journey with the community.
+
+---
+
+<div align="center">
+
+## 👨‍💻 Author
+
+### **Rajan Kumar Gupta**
+
+**Aspiring Data Analyst | SQL | Power BI | Tableau | Excel | Generative AI**
+
+*"Learning every day, one query at a time."* 🚀
+
+</div>
