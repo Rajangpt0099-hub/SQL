@@ -1,221 +1,139 @@
-<div align="center">
-
 # 🚀 SQL Practice Repository
 
-### Mastering SQL Through Hands-on Practice & Real-World Database Scenarios
+Welcome to my SQL Practice Repository! 👋
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-blue?style=for-the-badge&logo=mysql)
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-
-</div>
+This repository contains my SQL practice exercises covering everything from SQL basics to advanced concepts. I created these practice sets to strengthen my SQL skills for Data Analytics and Data Science.
 
 ---
 
-# 📖 About
+## 📚 Topics Covered
 
-Welcome to my **SQL Practice Repository**!
-
-This repository documents my SQL learning journey through structured practice and real-world database scenarios. It contains multiple SQL files covering fundamental to advanced concepts, helping strengthen problem-solving skills and build a solid foundation in SQL for Data Analytics.
-
----
-
-# 📂 Repository Structure
-
-```
-📁 SQL-Practice
-│
-├── SQL-Practice 1.sql
-├── SQL-Practice 2.sql
-├── SQL-Practice 3.sql
-├── SQL-Practice 4 (Joins).sql
-└── README.md
-```
-
----
-
-# 📚 Topics Covered
-
-## 🟢 SQL Fundamentals
-
-- Database Creation
-- Table Creation
-- Data Insertion
+### ✅ SQL Basics
 - SELECT Statements
 - WHERE Clause
 - ORDER BY
 - LIMIT
 - DISTINCT
 
----
+### ✅ Filtering Data
+- AND
+- OR
+- NOT
+- BETWEEN
+- IN
+- LIKE
 
-## 🟡 Aggregate Functions
-
+### ✅ Aggregate Functions
 - COUNT()
 - SUM()
 - AVG()
 - MIN()
 - MAX()
 
----
-
-## 🟠 Grouping
-
+### ✅ Grouping
 - GROUP BY
 - HAVING
 
----
-
-## 🔵 SQL Functions
-
-### String Functions
-
-- CONCAT()
-- UPPER()
-- LOWER()
-- LENGTH()
-- TRIM()
-- REPLACE()
-
-### Date Functions
-
-- CURDATE()
-- NOW()
-- DATEDIFF()
-- DATE_FORMAT()
-
----
-
-## 🟣 Joins
-
+### ✅ SQL Joins
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
 - FULL JOIN
 - SELF JOIN
 
----
+### ✅ Subqueries
+- Single Row Subqueries
+- Multiple Row Subqueries
+- Correlated Subqueries
 
-## 🔴 Advanced SQL
+### ✅ Common Table Expressions (CTEs)
 
-- Subqueries
-- Nested Queries
-- Common Table Expressions (CTE)
-- Views
+### ✅ Views
 
----
+### ✅ Constraints
+- Primary Key
+- Foreign Key
+- Unique
+- Check
+- Default
+- Not Null
 
-## ⚫ Constraints
-
-- PRIMARY KEY
-- FOREIGN KEY
-- UNIQUE
-- NOT NULL
-- CHECK
-- DEFAULT
-
----
-
-## 📊 Practice Databases
-
-This repository includes SQL practice using different datasets such as:
-
-- ⚽ Sports Database
-- ✈️ Airlines Database
-- 👥 Employee Database
-- 📦 Business Scenarios
-- 🛒 Sales & Analytics
-- Interview-Based SQL Questions
+### ✅ SQL Functions
+- String Functions
+- Numeric Functions
+- Date Functions
 
 ---
 
-# 💡 Skills Demonstrated
+# 📂 Repository Structure
 
-- Writing SQL Queries
-- Database Design
-- Data Filtering
-- Data Aggregation
-- Multi-table Joins
-- Query Optimization
-- Business Data Analysis
-- Problem Solving
-
----
-
-# 🛠 Tools Used
-
-- MySQL
-- SQL
-- Git
-- GitHub
-- VS Code
+```
+SQL/
+│
+├── SQL-Practice 1.sql
+├── SQL-Practice 2.sql
+├── SQL-Practice 3.sql
+├── SQL-Practice 4 (Joins).sql
+├── SQL-Practice 5 (CTEs, Subqueries, Joins).sql
+└── README.md
+```
 
 ---
 
 # 🎯 Repository Goal
 
-The purpose of this repository is to:
+This repository is part of my learning journey where I solve SQL problems regularly to improve my:
 
-- Practice SQL consistently
-- Build strong SQL fundamentals
-- Solve real-world business problems
-- Prepare for Data Analyst interviews
-- Track my learning journey
+- SQL Query Writing
+- Database Concepts
+- Analytical Thinking
+- Problem Solving
+- Interview Preparation
 
 ---
 
-# 🚀 Future Updates
+# 🛠️ Tools Used
 
-- Window Functions
-- Stored Procedures
-- Triggers
-- Indexes
-- Transactions
-- Query Optimization
-- Advanced SQL Projects
-- SQL Interview Questions
+- MySQL
+- MySQL Workbench
 
 ---
 
 # 📈 Learning Progress
 
-- ✅ SQL Basics
-- ✅ Aggregate Functions
-- ✅ GROUP BY & HAVING
-- ✅ Joins
-- ✅ Constraints
-- ✅ Views
-- ✅ CTE
-- 🔄 Advanced SQL (In Progress)
+| Practice Set | Topics |
+|--------------|--------|
+| ✅ Practice 1 | SQL Basics |
+| ✅ Practice 2 | Functions & Aggregates |
+| ✅ Practice 3 | Advanced Queries |
+| ✅ Practice 4 | SQL Joins |
+| ✅ Practice 5 | CTEs, Subqueries & Joins |
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Contributions
 
-💼 **LinkedIn**  
+Suggestions and improvements are always welcome!
+
+Feel free to:
+
+- Fork the repository
+- Open an Issue
+- Submit a Pull Request
+
+---
+
+# 🌟 Connect with Me
+
+💼 LinkedIn  
 https://www.linkedin.com/in/rajangupta0099
 
-💻 **GitHub**  
+💻 GitHub  
 https://github.com/Rajangpt0099-hub
 
 ---
 
-# ⭐ If You Like This Repository
+## ⭐ If you found this repository helpful, consider giving it a Star!
 
-If you found this repository useful, consider giving it a **⭐ Star**.
-
-It motivates me to continue learning, building projects, and sharing my journey with the community.
-
----
-
-<div align="center">
-
-## 👨‍💻 Author
-
-### **Rajan Kumar Gupta**
-
-**Aspiring Data Analyst | SQL | Power BI | Tableau | Excel | Generative AI**
-
-*"Learning every day, one query at a time."* 🚀
-
-</div>
+Thank you for visiting my repository!
+Happy Learning! 🚀
