@@ -2,20 +2,33 @@
 
 Welcome to my SQL Practice Repository! 👋
 
-This repository contains my SQL practice exercises covering everything from SQL basics to advanced concepts. I created these practice sets to strengthen my SQL skills for Data Analytics and Data Science.
+This repository documents my SQL learning journey through hands-on practice. It covers SQL fundamentals to advanced concepts using real-world datasets and problem-solving exercises designed to strengthen my Data Analytics and Data Science skills.
 
 ---
 
-## 📚 Topics Covered
+# 📚 Practice Files
 
-### ✅ SQL Basics
-- SELECT Statements
-- WHERE Clause
+| File | Topics Covered |
+|------|----------------|
+| ✅ SQL Practice 1 | SQL Basics, SELECT, WHERE, ORDER BY, LIMIT |
+| ✅ SQL Practice 2 | Aggregate Functions, GROUP BY, HAVING, Functions |
+| ✅ SQL Practice 3 | Advanced Queries, Constraints, Date & String Functions |
+| ✅ SQL Practice 4 | INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, SELF JOIN |
+| ✅ SQL Practice 5 | CTEs, Subqueries, Advanced JOINs |
+| ✅ SQL Practice 6 | CASE Statements, UPDATE, ALTER, DELETE, COMMIT, ROLLBACK, GRANT, REVOKE, Safe Update Mode |
+
+---
+
+# 📖 Topics Covered
+
+### SQL Fundamentals
+- SELECT
+- DISTINCT
+- WHERE
 - ORDER BY
 - LIMIT
-- DISTINCT
 
-### ✅ Filtering Data
+### Filtering
 - AND
 - OR
 - NOT
@@ -23,45 +36,68 @@ This repository contains my SQL practice exercises covering everything from SQL 
 - IN
 - LIKE
 
-### ✅ Aggregate Functions
+### Aggregate Functions
 - COUNT()
 - SUM()
 - AVG()
 - MIN()
 - MAX()
 
-### ✅ Grouping
+### Grouping
 - GROUP BY
 - HAVING
 
-### ✅ SQL Joins
+### SQL Joins
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
 - FULL JOIN
 - SELF JOIN
 
-### ✅ Subqueries
-- Single Row Subqueries
-- Multiple Row Subqueries
+### Subqueries
+- Single Row
+- Multiple Row
 - Correlated Subqueries
 
-### ✅ Common Table Expressions (CTEs)
+### Common Table Expressions (CTEs)
 
-### ✅ Views
+### Constraints
+- PRIMARY KEY
+- FOREIGN KEY
+- UNIQUE
+- CHECK
+- DEFAULT
+- NOT NULL
 
-### ✅ Constraints
-- Primary Key
-- Foreign Key
-- Unique
-- Check
-- Default
-- Not Null
-
-### ✅ SQL Functions
+### SQL Functions
 - String Functions
 - Numeric Functions
 - Date Functions
+
+### Data Manipulation (DML)
+- INSERT
+- UPDATE
+- DELETE
+
+### Data Definition (DDL)
+- CREATE
+- ALTER
+- DROP
+- TRUNCATE
+
+### Transaction Control (TCL)
+- COMMIT
+- ROLLBACK
+- SAVEPOINT
+
+### Data Control (DCL)
+- GRANT
+- REVOKE
+
+### Conditional Logic
+- CASE Statement
+
+### Views
 
 ---
 
@@ -75,65 +111,84 @@ SQL/
 ├── SQL-Practice 3.sql
 ├── SQL-Practice 4 (Joins).sql
 ├── SQL-Practice 5 (CTEs, Subqueries, Joins).sql
+├── SQL-Practice 6.sql
 └── README.md
 ```
 
 ---
 
-# 🎯 Repository Goal
+# 🎯 Objective
 
-This repository is part of my learning journey where I solve SQL problems regularly to improve my:
+This repository is created to:
 
-- SQL Query Writing
-- Database Concepts
-- Analytical Thinking
-- Problem Solving
-- Interview Preparation
+- Practice SQL consistently
+- Build strong database fundamentals
+- Improve analytical thinking
+- Prepare for Data Analyst and SQL interviews
+- Showcase practical SQL skills through GitHub
 
 ---
 
-# 🛠️ Tools Used
+# 🛠️ Technologies Used
 
 - MySQL
 - MySQL Workbench
+- Git
+- GitHub
 
 ---
 
 # 📈 Learning Progress
 
-| Practice Set | Topics |
-|--------------|--------|
-| ✅ Practice 1 | SQL Basics |
-| ✅ Practice 2 | Functions & Aggregates |
-| ✅ Practice 3 | Advanced Queries |
-| ✅ Practice 4 | SQL Joins |
-| ✅ Practice 5 | CTEs, Subqueries & Joins |
+| Practice Set | Status | Topics |
+|--------------|:------:|--------|
+| Practice 1 | ✅ | SQL Basics |
+| Practice 2 | ✅ | Functions & Aggregates |
+| Practice 3 | ✅ | Advanced SQL |
+| Practice 4 | ✅ | SQL Joins |
+| Practice 5 | ✅ | CTEs, Subqueries & Joins |
+| Practice 6 | ✅ | CASE, DDL, DML, TCL & DCL |
+
+---
+
+# 🚀 Skills Demonstrated
+
+- Database Design
+- Query Optimization
+- Data Retrieval
+- Data Manipulation
+- Data Definition
+- Transaction Management
+- Access Control
+- SQL Problem Solving
 
 ---
 
 # 🤝 Contributions
 
-Suggestions and improvements are always welcome!
+Contributions, suggestions, and improvements are always welcome.
 
 Feel free to:
 
-- Fork the repository
-- Open an Issue
-- Submit a Pull Request
+- ⭐ Star the repository
+- 🍴 Fork the repository
+- 🐞 Open an Issue
+- 🔥 Submit a Pull Request
 
 ---
 
-# 🌟 Connect with Me
+# 🌐 Connect With Me
 
-💼 LinkedIn  
-https://www.linkedin.com/in/rajangupta0099
+**LinkedIn**  
+🔗 https://www.linkedin.com/in/rajangupta0099
 
-💻 GitHub  
-https://github.com/Rajangpt0099-hub
+**GitHub**  
+🔗 https://github.com/Rajangpt0099-hub
 
 ---
 
-## ⭐ If you found this repository helpful, consider giving it a Star!
+## ⭐ Support
 
-Thank you for visiting my repository!
-Happy Learning! 🚀
+If you found this repository helpful or useful for learning SQL, please consider giving it a **Star ⭐**. It motivates me to continue sharing my learning journey and improving this repository.
+
+**Happy Learning! 🚀**
