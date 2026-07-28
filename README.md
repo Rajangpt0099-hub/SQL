@@ -1,40 +1,60 @@
-# 🚀 SQL Practice Repository
+# SQL Portfolio 📊
 
-Welcome to my SQL Practice Repository! 👋
+Welcome to my SQL Portfolio!
 
-This repository documents my SQL learning journey through hands-on practice. It covers SQL fundamentals to advanced concepts using real-world datasets and problem-solving exercises designed to strengthen my Data Analytics and Data Science skills.
-
----
-
-# 📚 Practice Files
-
-| File | Topics Covered |
-|------|----------------|
-| ✅ SQL Practice 1 | SQL Basics, SELECT, WHERE, ORDER BY, LIMIT |
-| ✅ SQL Practice 2 | Aggregate Functions, GROUP BY, HAVING, Functions |
-| ✅ SQL Practice 3 | Advanced Queries, Constraints, Date & String Functions |
-| ✅ SQL Practice 4 | INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, SELF JOIN |
-| ✅ SQL Practice 5 | CTEs, Subqueries, Advanced JOINs |
-| ✅ SQL Practice 6 | CASE Statements, UPDATE, ALTER, DELETE, COMMIT, ROLLBACK, GRANT, REVOKE, Safe Update Mode |
+This repository showcases my journey of learning SQL through hands-on practice, real-world business scenarios, and database projects. It includes SQL concepts ranging from beginner to intermediate level, along with a complete database project.
 
 ---
 
-# 📖 Topics Covered
+## 👨‍💻 About Me
 
-### SQL Fundamentals
+Hi, I'm **Rajan Kumar Gupta**.
+
+I am an aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
+
+Currently learning:
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Python (Upcoming)
+
+---
+
+# 📂 Repository Structure
+
+| Folder/File | Description |
+|-------------|-------------|
+| SQL Practice 1 | Basic SQL Queries |
+| SQL Practice 2 | Filtering, Sorting & Functions |
+| SQL Practice 3 | Aggregate Functions & Group By |
+| SQL Practice 4 | SQL Joins |
+| SQL Practice 5 | CTEs, Subqueries & Advanced Joins |
+| SQL Practice 6 | Advanced SQL Practice |
+| Project 1 | Complete SQL Database Project |
+
+---
+
+# 🚀 SQL Topics Covered
+
+### Database
+- CREATE DATABASE
+- CREATE TABLE
+- ALTER TABLE
+- DROP TABLE
+- TRUNCATE TABLE
+
+### Data Manipulation
+- INSERT
+- UPDATE
+- DELETE
+
+### Querying
 - SELECT
-- DISTINCT
 - WHERE
 - ORDER BY
 - LIMIT
-
-### Filtering
-- AND
-- OR
-- NOT
-- BETWEEN
-- IN
-- LIKE
+- DISTINCT
 
 ### Aggregate Functions
 - COUNT()
@@ -43,152 +63,107 @@ This repository documents my SQL learning journey through hands-on practice. It 
 - MIN()
 - MAX()
 
-### Grouping
-- GROUP BY
-- HAVING
+### String Functions
+- CONCAT()
+- UPPER()
+- LOWER()
+- LENGTH()
+- SUBSTRING()
 
-### SQL Joins
+### Date Functions
+- CURDATE()
+- DATEDIFF()
+- YEAR()
+- MONTH()
+
+### Joins
 - INNER JOIN
 - LEFT JOIN
 - RIGHT JOIN
-- FULL JOIN
+- FULL JOIN (Concept)
 - SELF JOIN
 
-### Subqueries
-- Single Row
-- Multiple Row
+### Advanced SQL
+- Subqueries
 - Correlated Subqueries
-
-### Common Table Expressions (CTEs)
-
-### Constraints
-- PRIMARY KEY
-- FOREIGN KEY
-- UNIQUE
-- CHECK
-- DEFAULT
-- NOT NULL
-
-### SQL Functions
-- String Functions
-- Numeric Functions
-- Date Functions
-
-### Data Manipulation (DML)
-- INSERT
-- UPDATE
-- DELETE
-
-### Data Definition (DDL)
-- CREATE
-- ALTER
-- DROP
-- TRUNCATE
-
-### Transaction Control (TCL)
-- COMMIT
-- ROLLBACK
-- SAVEPOINT
-
-### Data Control (DCL)
-- GRANT
-- REVOKE
-
-### Conditional Logic
-- CASE Statement
-
-### Views
+- Common Table Expressions (CTEs)
+- CASE Statements
+- Views
+- Constraints
+- GROUP BY
+- HAVING
 
 ---
 
-# 📂 Repository Structure
+# 📁 Featured Project
 
-```
-SQL/
-│
-├── SQL-Practice 1.sql
-├── SQL-Practice 2.sql
-├── SQL-Practice 3.sql
-├── SQL-Practice 4 (Joins).sql
-├── SQL-Practice 5 (CTEs, Subqueries, Joins).sql
-├── SQL-Practice 6.sql
-└── README.md
-```
+## SQL Database Project
 
----
+A complete relational database project designed to simulate a real-world business environment.
 
-# 🎯 Objective
+### Features
 
-This repository is created to:
-
-- Practice SQL consistently
-- Build strong database fundamentals
-- Improve analytical thinking
-- Prepare for Data Analyst and SQL interviews
-- Showcase practical SQL skills through GitHub
+- Relational Database Design
+- Primary & Foreign Keys
+- Multiple Tables
+- Business Queries
+- Joins
+- CTEs
+- Subqueries
+- Aggregations
+- Reporting Queries
 
 ---
 
-# 🛠️ Technologies Used
+# 🎯 Learning Objectives
 
-- MySQL
+✔ Write efficient SQL queries
+
+✔ Understand relational databases
+
+✔ Perform data analysis using SQL
+
+✔ Solve business problems
+
+✔ Improve query optimization skills
+
+---
+
+# 🛠️ Tools Used
+
 - MySQL Workbench
+- MySQL
 - Git
 - GitHub
 
 ---
 
-# 📈 Learning Progress
+# 📈 Repository Progress
 
-| Practice Set | Status | Topics |
-|--------------|:------:|--------|
-| Practice 1 | ✅ | SQL Basics |
-| Practice 2 | ✅ | Functions & Aggregates |
-| Practice 3 | ✅ | Advanced SQL |
-| Practice 4 | ✅ | SQL Joins |
-| Practice 5 | ✅ | CTEs, Subqueries & Joins |
-| Practice 6 | ✅ | CASE, DDL, DML, TCL & DCL |
+- ✅ SQL Basics
+- ✅ Filtering & Sorting
+- ✅ Aggregate Functions
+- ✅ Joins
+- ✅ CTEs
+- ✅ Subqueries
+- ✅ Database Project
 
----
-
-# 🚀 Skills Demonstrated
-
-- Database Design
-- Query Optimization
-- Data Retrieval
-- Data Manipulation
-- Data Definition
-- Transaction Management
-- Access Control
-- SQL Problem Solving
+More projects coming soon...
 
 ---
 
-# 🤝 Contributions
+# 🌟 Connect With Me
 
-Contributions, suggestions, and improvements are always welcome.
+### LinkedIn
 
-Feel free to:
+www.linkedin.com/in/rajan-kumar-gupta-626730323
 
-- ⭐ Star the repository
-- 🍴 Fork the repository
-- 🐞 Open an Issue
-- 🔥 Submit a Pull Request
+### GitHub
 
----
-
-# 🌐 Connect With Me
-
-**LinkedIn**  
-🔗 https://www.linkedin.com/in/rajangupta0099
-
-**GitHub**  
-🔗 https://github.com/Rajangpt0099-hub
+https://github.com/Rajangpt0099-hub
 
 ---
 
-## ⭐ Support
+## ⭐ If you found this repository helpful, consider giving it a Star!
 
-If you found this repository helpful or useful for learning SQL, please consider giving it a **Star ⭐**. It motivates me to continue sharing my learning journey and improving this repository.
-
-**Happy Learning! 🚀**
+It motivates me to keep building and sharing more SQL and Data Analytics projects.
