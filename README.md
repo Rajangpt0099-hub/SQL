@@ -1,169 +1,87 @@
-# SQL Portfolio 📊
+# SQL Portfolio 🚀
 
-Welcome to my SQL Portfolio!
+Welcome to my **SQL Learning & Portfolio Repository**. This repository contains my SQL practice files, mini-projects, and real-world data analysis projects completed as part of my Data Science journey.
 
-This repository showcases my journey of learning SQL through hands-on practice, real-world business scenarios, and database projects. It includes SQL concepts ranging from beginner to intermediate level, along with a complete database project.
+## 📌 About This Repository
 
----
+This repository showcases my hands-on experience with:
 
-## 👨‍💻 About Me
-
-Hi, I'm **Rajan Kumar Gupta**.
-
-I am an aspiring **Data Analyst** passionate about turning raw data into meaningful insights.
-
-Currently learning:
-- SQL
-- Excel
-- Power BI
-- Tableau
-- Python (Upcoming)
+* SQL Fundamentals
+* Joins
+* Aggregate Functions
+* Subqueries
+* Common Table Expressions (CTEs)
+* Window Functions
+* Data Cleaning
+* Business Problem Solving with SQL
+* Exploratory Data Analysis (EDA)
+* Real-World SQL Projects
 
 ---
 
-# 📂 Repository Structure
+## 📂 SQL Practice Files
 
-| Folder/File | Description |
-|-------------|-------------|
-| SQL Practice 1 | Basic SQL Queries |
-| SQL Practice 2 | Filtering, Sorting & Functions |
-| SQL Practice 3 | Aggregate Functions & Group By |
-| SQL Practice 4 | SQL Joins |
-| SQL Practice 5 | CTEs, Subqueries & Advanced Joins |
-| SQL Practice 6 | Advanced SQL Practice |
-| Project 1 | Complete SQL Database Project |
-
----
-
-# 🚀 SQL Topics Covered
-
-### Database
-- CREATE DATABASE
-- CREATE TABLE
-- ALTER TABLE
-- DROP TABLE
-- TRUNCATE TABLE
-
-### Data Manipulation
-- INSERT
-- UPDATE
-- DELETE
-
-### Querying
-- SELECT
-- WHERE
-- ORDER BY
-- LIMIT
-- DISTINCT
-
-### Aggregate Functions
-- COUNT()
-- SUM()
-- AVG()
-- MIN()
-- MAX()
-
-### String Functions
-- CONCAT()
-- UPPER()
-- LOWER()
-- LENGTH()
-- SUBSTRING()
-
-### Date Functions
-- CURDATE()
-- DATEDIFF()
-- YEAR()
-- MONTH()
-
-### Joins
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- FULL JOIN (Concept)
-- SELF JOIN
-
-### Advanced SQL
-- Subqueries
-- Correlated Subqueries
-- Common Table Expressions (CTEs)
-- CASE Statements
-- Views
-- Constraints
-- GROUP BY
-- HAVING
+| File           | Topics Covered                      |
+| -------------- | ----------------------------------- |
+| SQL Practice 1 | Basic Queries, Filtering, Sorting   |
+| SQL Practice 2 | Aggregate Functions & Group By      |
+| SQL Practice 3 | String, Date & Numeric Functions    |
+| SQL Practice 4 | SQL Joins                           |
+| SQL Practice 5 | CTEs, Subqueries & Advanced Queries |
+| SQL Practice 6 | Advanced SQL Problem Solving        |
 
 ---
 
-# 📁 Featured Project
+## 📊 SQL Projects
 
-## SQL Database Project
+### 🚇 Project 1: Metro Transit Analytics
 
-A complete relational database project designed to simulate a real-world business environment.
+**Objective:** Analyze metro transit operations to identify passenger trends, revenue insights, route performance, and operational efficiency using SQL.
 
-### Features
+**Key Insights:**
 
-- Relational Database Design
-- Primary & Foreign Keys
-- Multiple Tables
-- Business Queries
-- Joins
-- CTEs
-- Subqueries
-- Aggregations
-- Reporting Queries
+* Identified peak travel periods.
+* Analyzed revenue contribution by routes.
+* Evaluated station-wise passenger traffic.
+* Measured operational performance using SQL queries.
 
 ---
 
-# 🎯 Learning Objectives
+### 🦁 Project 2: WildTrack Conservation Analytics
 
-✔ Write efficient SQL queries
+**Objective:** Analyze wildlife conservation data to uncover species trends, habitat conditions, conservation effectiveness, and overall ecosystem insights using SQL.
 
-✔ Understand relational databases
+**Key Insights:**
 
-✔ Perform data analysis using SQL
-
-✔ Solve business problems
-
-✔ Improve query optimization skills
-
----
-
-# 🛠️ Tools Used
-
-- MySQL Workbench
-- MySQL
-- Git
-- GitHub
+* Identified endangered species requiring immediate attention.
+* Analyzed habitat-wise biodiversity distribution.
+* Evaluated conservation success rates.
+* Measured the impact of protection initiatives using SQL.
+* Generated actionable insights for wildlife management decisions.
 
 ---
 
-# 📈 Repository Progress
+## 🛠️ Tools Used
 
-- ✅ SQL Basics
-- ✅ Filtering & Sorting
-- ✅ Aggregate Functions
-- ✅ Joins
-- ✅ CTEs
-- ✅ Subqueries
-- ✅ Database Project
-
-More projects coming soon...
+* MySQL
+* MySQL Workbench
+* SQL
+* Git & GitHub
 
 ---
 
-# 🌟 Connect With Me
+## 🎯 Repository Goal
 
-### LinkedIn
-
-www.linkedin.com/in/rajan-kumar-gupta-626730323
-
-### GitHub
-
-https://github.com/Rajangpt0099-hub
+The goal of this repository is to document my progress in SQL while building a strong portfolio of practical business and data analysis projects.
 
 ---
 
-## ⭐ If you found this repository helpful, consider giving it a Star!
+## 👨‍💻 Author
 
-It motivates me to keep building and sharing more SQL and Data Analytics projects.
+**Rajan Kumar Gupta**
+
+📌 Data Science Learner
+📌 SQL | Excel | Power BI | Tableau | Generative AI
+📌 Continuously learning and building real-world projects.
+
+⭐ If you found this repository helpful, don't forget to star it!
